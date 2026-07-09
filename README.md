@@ -16,3 +16,8 @@ No desenvolvimento deste projeto, foram implementados e testados algoritmos de c
 * **Ambiente de Desenvolvimento:** Google Colab
 * **Principais Bibliotecas:** `pandas`, `numpy`, `scikit-learn`, `xgboost`, `matplotlib`, `imblearn`
 
+## 💻 Como Executar
+
+Você pode visualizar e rodar este notebook diretamente no seu navegador através do Google Colab. Basta clicar no botão abaixo:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vYV6XPJxLR1QaYDHGGGAOXa1ANSId8yv?usp=sharing)
