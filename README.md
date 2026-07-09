@@ -8,7 +8,8 @@ No desenvolvimento deste projeto, foram implementados e testados algoritmos de c
 
 1. **Logistic Regression (Regressão Logística):**
 2. **Random Forest:** 
-3. **XGBoost (Extreme Gradient Boosting):** 
+3. **XGBoost (Extreme Gradient Boosting):**
+4. **LightGBM (Light Gradient Boosting Machine):** 
 
 ## 🛠️ Tecnologias e Ferramentas
 
